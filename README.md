@@ -3,6 +3,7 @@ Training &amp; inference code for BMVC2021 submission
 
 ## Enviroment
 Pytorch == 1.1.0, torchvision == 0.3.0, python == 3.6 CUDA=10.1
+There are also some package dependent errors that can be solved with pip or conda by yourself. If you get trouble with this code, feel free to raise a new issue.
 
 
 
