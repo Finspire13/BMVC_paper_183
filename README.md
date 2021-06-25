@@ -9,9 +9,9 @@ There are also some package dependent errors that can be solved with pip or cond
 
 ## Reproduce our results
 We provide the pretrained model that used to reproduce the results in our paper.
-Download the dataset data.zip at https://mega.nz/#!O6wXlSTS!wcEoDT4Ctq5HRq_hV-aWeVF1_JB3cacQBQqOLjCIbc8  or https://zenodo.org/record/3625992#.Xiv9jGhKhPY . Unzip the data.zip file to the current folder, like xx.py, xx.py, data/.
+Download the dataset data.zip at https://mega.nz/#!O6wXlSTS!wcEoDT4Ctq5HRq_hV-aWeVF1_JB3cacQBQqOLjCIbc8  or https://zenodo.org/record/3625992#.Xiv9jGhKhPY . Unzip the data.zip file to the current folder, like xx.py, xx.py, data/50salads.
 
-Download the pre-trained models at https://disk.pku.edu.cn:443/link/7AB61948E42CDC448DBF7BB1637A49B2 Valid Until: 2024-07-01 23:59 to the current folder, like xx.py, xx.py, models/.
+Download the pre-trained models at https://disk.pku.edu.cn:443/link/7AB61948E42CDC448DBF7BB1637A49B2 Valid Until: 2024-07-01 23:59 to the current folder, like xx.py, xx.py, models/50salads/.
 
 Run
 ```
