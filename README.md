@@ -19,9 +19,9 @@ python main.py --action=predict --dataset=50salads/gtea/breakfast --split=1/2/3/
 ```
 to get the predictions for each split. Then, run 
 ```
-python eval.py  --dataset=50salads/gtea/breakfast
+python eval.py  --dataset=50salads/gtea/breakfast --split=0/1/2/3/4/5
 ```
-to get the evaluation results.
+to get the evaluation results. NOTE: split=0 means evaluate the avergae results over all splits for the dataset, split=others means evaluate the performance for one specific split.
 
 
 ## Train the model 
